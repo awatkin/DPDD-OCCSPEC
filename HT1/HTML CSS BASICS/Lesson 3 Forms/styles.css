@@ -1,0 +1,15 @@
+/* I have started off the css for the core tags in the lesson2.html page */
+
+body {
+    background-color: #F0F8FF;
+}
+
+p {
+    font-family: Arial,Verdana,Tahoma, sans-serif;
+}
+
+
+h2 {
+    /* This will style h2 headings but no other type of heading */
+}
+
