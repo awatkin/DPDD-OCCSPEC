@@ -1,0 +1,22 @@
+/* I have started off the css for the core tags in the lesson2.html page */
+
+body {
+    /* Any thing in here will apply to anything that isn't in a separate container, like a P tage */
+}
+
+p {
+    /* anything in this, will apply to all paragraphs in the html page */
+}
+
+a {
+    /* anything in here will style all hyperlinks in the website */
+}
+
+img {
+    /* anything in here will style all images in the website */
+}
+
+h2 {
+    /* This will style h2 headings but no other type of heading */
+}
+
